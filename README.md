@@ -26,7 +26,7 @@
 * For owners who are not present for the live draft or if an owner cannot decide within the allowed time, the draft will automatically take place by the commissioners. 
 * Based on Yahoo's [Fantasy Football Draft Rankings], the commissioners will select the second highest or lower ranking player that will fill the position that best suits a team. 
 * Optionally, a player can provide his own draft rankings and exclusion list and the commissioners will try to accommodate those requests as much as possible. Please provide the rankings and exclusion list to the commissioners via email. 
-* The commissioners have two minutes to select a player based on the rankings and exclusion list (if provided by owner). If the commissioners run out of time, the second highest ranking player will be selected. 
+* The commissioners have one minutes to select a player based on the rankings and exclusion list (if provided by owner). If the commissioners run out of time, the second highest ranking player will be selected. 
 
 ## Feedback
 
