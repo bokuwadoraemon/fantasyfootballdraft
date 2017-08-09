@@ -11,7 +11,7 @@
 * Live draft
 * Same scoring as last year
 * Snake drafting order
-* Draft positions to be determined on day of live draft. Each owner will draw a draft position out of a box. The order of the draw is the reversed order of last year's standings.  
+* Draft positions to be determined on day of live draft at least 30 minutes before the life draft. Each owner will draw a draft position out of a box. The order of the draw is the reversed order of last year's standings.  
 * Upon drafting, an owner has one minute to decide and make a verbal announcement of a player to be drafted. If the owner cannot decide, the owner has two chances to call for an additional three minutes to decide. If the owner cannot decide, the draft will be [automatically decided](#auto-draft).  
 * There will be two 10 minutes breaks during the live draft. One break will happen after round 4. Another break will happen after round 8. If the owners agree to proceed without a break, there will be no break. However, if all owners agree for a break, there will be additional breaks. 
 * Owners will be provided with printouts of Yahoo's [Fantasy Football Draft Rankings]
@@ -49,5 +49,9 @@ The Yahoo rankings are powered by FantasyPros.
 **How long will the live draft take?**
 
 Since there will be 12 owner x 13 selections/owner = 156 selections, if all goes well the live draft will take about 3 hours, perhaps up to 4 hours. 
+
+**Can owners trade draft positions?**
+
+Owners are free to trade their draft positions prior to the live draft. The new draft positions will not be considered official unless the commissioners are notified before the live draft starts. 
 
 [Fantasy Football Draft Rankings]: https://www.fantasypros.com/nfl/rankings/consensus-cheatsheets.php
